@@ -159,7 +159,7 @@ umount /mnt/rescue
 ## 💡 救援小贴士
 进入 Alpine Linux 救援模式后，系统是运行在内存里的。
 - **默认用户名**：`root` (无密码)
-- **安装工具**：`apk update && apk add e2fsck resize2fs fdisk`
+- **安装工具**：`apk update && apk add util-linux nano e2fsprogs`
 - **挂载数据盘**：`mount /dev/sda3 /mnt`
 
 ---
