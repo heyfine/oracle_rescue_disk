@@ -1,3 +1,7 @@
+# 一键安装脚本：
+bash -c "$(curl -sL https://raw.githubusercontent.com/heyfine/google_Rescue_disk/refs/heads/main/rescue.sh)"
+
+
 # 🚒 甲骨文云 ARM (Ampere) 实例打造“不死之身”：Netboot.xyz 救援模式全攻略
 
 ## 前言
